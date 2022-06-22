@@ -17,7 +17,7 @@ view.addSubview(ratingView)
 
 ## Example
 
-<img src="Screenshots/Screenshot-1.png" width="320" alt="Screenshot 1"> <img src="Screenshots/Screenshot-2@2x.png" width="320" alt="Screenshot 2">
+<img src="Screenshots/Screenshot-1.png" width="320" alt="Screenshot 1"> <img src="Screenshots/Screenshot-2.png" width="320" alt="Screenshot 2">
 
 
 ## Installation
